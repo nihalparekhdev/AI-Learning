@@ -1,2 +1,25 @@
-# AI---Learning
-AI Software / ML Engineer → Computer Vision → Edge AI → AI Product Engineer
+# AI - Learning
+
+                         ┌──────────────────┐
+                         │  FULL-STACK DEV  │
+                         │ C# / Azure / API │
+                         └────────┬─────────┘
+                                  ↓
+                         🐍 PYTHON + DATA
+                                  ↓
+                         📊 MACHINE LEARNING
+                                  ↓
+                         🧠 DEEP LEARNING
+                                  ↓
+                  ┌───────────────┴───────────────┐
+                  ↓                               ↓
+             ✨ GENAI                     👁️ COMPUTER VISION
+                  ↓                               ↓
+	             AI SOFTWARE                        ↓
+                  │                          🔌 EDGE AI
+                  │                               ↓
+                  └───────────────┬───────────────┘
+                                  ↓
+                         🚀 AI PRODUCT ENGINEER
+
+
