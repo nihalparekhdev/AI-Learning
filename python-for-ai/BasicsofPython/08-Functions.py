@@ -63,3 +63,11 @@ def myuniversal_function(universal_variable):
 
 result = myuniversal_function(universal_variable)  # Calling the function and storing the result
 print("Result after function call:", result)  # Printing the result
+
+
+#function with parameters
+
+def calculate_totalprice(price,tax_rate,discount):
+    total_price = price + (price * tax_rate) - discount
+    print("Total price after calculation:", total_price)
+calculate_totalprice(price=1000, tax_rate=0.1, discount=50)  # Calling the function with parameters
