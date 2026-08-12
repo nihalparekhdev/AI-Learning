@@ -71,3 +71,25 @@ def calculate_totalprice(price,tax_rate,discount):
     total_price = price + (price * tax_rate) - discount
     print("Total price after calculation:", total_price)
 calculate_totalprice(price=1000, tax_rate=0.1, discount=50)  # Calling the function with parameters
+
+#Function with return statement
+
+def area_room(width, height):
+    area = width * height
+    return area
+room_area = area_room(5, 4)  # Calling the function and storing the returned value
+print(f"Area of the room: {room_area} sq. feet")  # Printing the area of the room
+
+
+#function with resuable code
+def my_multiply_function(a, b):
+    return a * b
+
+result = my_multiply_function(5, 3)  # Calling the function and storing the result
+print("Result of multiplication:", result)  # Printing the result of multiplication
+
+if my_multiply_function(5, 3) > 10:
+    print("The result is greater than 10")
+
+
+
