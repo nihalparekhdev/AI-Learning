@@ -91,5 +91,12 @@ print("Result of multiplication:", result)  # Printing the result of multiplicat
 if my_multiply_function(5, 3) > 10:
     print("The result is greater than 10")
 
+#function with returning multiple values
+def calculate_area_and_perimeter():
+    number = ["Nihal",2,3,4,24]
+    first_value = number[0]
+    last_value = number[-1]
+    return first_value, last_value
 
-
+f, l = calculate_area_and_perimeter ()
+print(f,l)
