@@ -4,3 +4,11 @@
 #A fuction is like a specific tool (Hammer, screwdriver, etc)
 #A class is like a blueprint for building tools 
 
+#Universal import
+import math 
+math.sqrt(16)
+
+
+#import for specifid packages
+from math import sqrt, pi
+sqrt(144)
