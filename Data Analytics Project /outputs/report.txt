@@ -1,0 +1,18 @@
+SALES ANALYTICS LAB: SUMMARY REPORT
+=============================================
+Records analysed     : 2000
+Total revenue        : 1,146,328.00
+Average order value  : 573.16
+
+Top region           : North
+Top category         : Electronics
+Best month           : 6
+
+Strongest driver of revenue: unit_price
+
+Model performance    : R2 = 0.849, MAE = 134.00
+
+Conclusions
+- Focus marketing on the North region and Electronics category.
+- Plan inventory ahead of month 6, the seasonal peak.
+- Discounts reduce revenue per order; test whether they lift volume enough.
